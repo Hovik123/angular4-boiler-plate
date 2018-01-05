@@ -1,0 +1,12 @@
+.alert-dismissable {
+  position: fixed;
+  z-index: 9999;
+  float: right;
+  right: 15px;
+  top: 15px;
+  padding: 9px 10px 10px 20px;
+  .close {
+    line-height: 0.8;
+    padding-left: 15px;
+  }
+}
